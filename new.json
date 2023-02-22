@@ -1,3 +1,11 @@
 	{
+		"person" : {
+		"name" : "Tymur",
+		"secondName" : "Kalnytsky",
+		"age" : "23"
+		},
+
+		"petQty" : "1",
+		"salary" : "500$"
 		
 	}
